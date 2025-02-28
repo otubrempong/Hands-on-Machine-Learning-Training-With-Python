@@ -26,7 +26,7 @@ Clone the repository and start experimenting:
 bash    
 Copy    
 Edit    
-git clone https://github.com/otubrempong/Hands-on-Machine-Learning-With-Python.git    
+git clone https://github.com/otubrempong/Hands-on-Machine-Learning-Training-With-Python.git    
 
 📢 Contribute & Feedback       
 Feel free to contribute by adding new notebooks, datasets, or enhancements! If you have any suggestions, open an issue or reach out.
